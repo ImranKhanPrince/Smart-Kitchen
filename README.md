@@ -1,7 +1,5 @@
 # Smart Kitchen Project: Securing Your Kitchen, Automating for Efficiency
 
----
-
 Kitchens are an essential part of our daily lives, serving as the heart of our
 homes where delicious meals are prepared and cherished memories are made.
 However, the kitchen environment also poses various hazards that can lead to
