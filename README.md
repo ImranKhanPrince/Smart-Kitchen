@@ -96,6 +96,7 @@ To set up the Smart Kitchen project, follow these steps:
 
 1. **Hardware Connections**: Connect the components according to the pin
    configurations defined in the Schematics.
+   ![Schematics](./Schematics/schematic.jpg)
 
 2. **Software Configuration**: Upload the provided Arduino code
    (`smart_kitchen.ino`) to your Arduino board using the Arduino IDE.
